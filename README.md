@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning backend 
 
 - 📫 How to reach me girishsinha06@gmail.com
+-📋 visit my portfolio
 
 <!---
 girishsinha/girishsinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
